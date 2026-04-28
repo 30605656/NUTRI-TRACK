@@ -1,0 +1,59 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / otros IDE
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# MAUI / Xamarin
+*.apk
+*.apks
+*.aab
+
+# Android
+*.keystore
+*.jks
+*.dex
+*.class
+
+# iOS
+*.ipa
+*.dSYM/
+
+# Mac
+*.app
+
+# Windows
+*.exe
+*.dll
+
+# Debug / Release
+Debug/
+Release/
+
+# Cache
+*.cache
+*.tmp
+
+# Secrets (MUY IMPORTANTE)
+appsettings.json
+appsettings.*.json
